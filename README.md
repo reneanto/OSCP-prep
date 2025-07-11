@@ -5,4 +5,4 @@
 ## Latest Attemp Score : 60/100
 
 [AD-Tricks](/AD-stuff.md)
-
+[Methodology](/Methodology)
